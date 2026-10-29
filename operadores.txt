@@ -1,0 +1,28 @@
+operadores matematicos
++
+-
+*
+/
+%
+
+comparación
+<
+>
+<=
+>=
+= asignación
+== igualdad
+=== exactamente igual   oso === OSO
+! 
+!=
+!==
+
+logicos
+&&
+||
+
+
+
+
+4 / 2
+2 / 0
