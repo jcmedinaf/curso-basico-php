@@ -92,14 +92,14 @@
 
 **6.1. Funciones de Transformación y Limpieza**
 
-    * Normalización de caso (strtolower, strtoupper, ucfirst, ucwords).
-    * Limpieza de espacios y caracteres especiales (trim, ltrim, rtrim).
+   * Normalización de caso (strtolower, strtoupper, ucfirst, ucwords).
+   * Limpieza de espacios y caracteres especiales (trim, ltrim, rtrim).
 
 **6.2. División y Conversión de Cadenas**
 
-    * Separar texto en arreglos (explode, str_split).
-    * Repetición y formateo de cadenas (str_repeat).
-    * **Archivo práctico:** 06_cadenas.php
+   * Separar texto en arreglos (explode, str_split).
+   * Repetición y formateo de cadenas (str_repeat).
+   * **Archivo práctico:** 06_cadenas.php
 
 ---
 
@@ -109,15 +109,15 @@
 
 **7.1. Constantes y Funciones Aritméticas Básicas**
 
-    * Constante M_PI, funciones pi(), pow(), sqrt().
-    * Mínimos y máximos (min, max).
+   * Constante M_PI, funciones pi(), pow(), sqrt().
+   * Mínimos y máximos (min, max).
 
 **7.2. Redondeo, Números Aleatorios y Caso Práctico**
 
-    * Estrategias de redondeo con round().
-    * Generación de números aleatorios con rand().
-    * Resolución práctica de la fórmula cuadrática (Ecuación de segundo grado).
-    * **Archivo práctico:** 07_funciones_matematicas.php
+   * Estrategias de redondeo con round().
+   * Generación de números aleatorios con rand().
+   * Resolución práctica de la fórmula cuadrática (Ecuación de segundo grado).
+   * **Archivo práctico:** 07_funciones_matematicas.php
 
 ---
 
@@ -127,11 +127,11 @@
 
 **8.1. Manejo de Archivos (I/O)**
 
-    * Apertura, lectura, escritura y cierre seguro (fopen, fwrite, fread, fclose).
-    * Obtención de metadatos de archivos (stat, filesize).
+   * Apertura, lectura, escritura y cierre seguro (fopen, fwrite, fread, fclose).
+   * Obtención de metadatos de archivos (stat, filesize).
 
 **8.2. Navegación e Inspección de Directorios**
 
-    * Obtención y cambio del directorio actual (getcwd, chdir).
-    * Lectura de archivos en directorio (scandir, opendir, readdir).
-    * **Archivo práctico:** 08_sistema_archivos.php
+   * Obtención y cambio del directorio actual (getcwd, chdir).
+   * Lectura de archivos en directorio (scandir, opendir, readdir).
+   * **Archivo práctico:** 08_sistema_archivos.php
