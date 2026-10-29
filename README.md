@@ -4,26 +4,19 @@ Bienvenido al Curso de PHP Básico. Este programa formativo está diseñado para
 
 # 🎯 Objetivos del Curso
 
-    * Comprender la sintaxis fundamental y los conceptos clave de PHP.
-
-    * Trabajar eficientemente con variables, tipos de datos y constantes.
-
-    * Dominar el flujo de control con estructuras condicionales y bucles.
-
-    * Manipular arreglos (unidimensionales y asociativos) y cadenas de texto.
-
-    * Implementar funciones matemáticas y manipulación del sistema de archivos (I/O).
-
-    * Aplicar estándares de código limpio (Clean Code) y buenas prácticas desde el primer día.
+* Comprender la sintaxis fundamental y los conceptos clave de PHP.
+* Trabajar eficientemente con variables, tipos de datos y constantes.
+* Dominar el flujo de control con estructuras condicionales y bucles.
+* Manipular arreglos (unidimensionales y asociativos) y cadenas de texto.
+* Implementar funciones matemáticas y manipulación del sistema de archivos (I/O).
+* Aplicar estándares de código limpio (Clean Code) y buenas prácticas desde el primer día.
 
 # 🛠️ Requisitos e Instalación
 
 Para ejecutar el código de este curso, necesitarás:
 
 1. **Intérprete de PHP:** Versión 8.0 o superior (php.net).
-
 2. **Servidor Local:** XAMPP, Laragon, LocalWP o la CLI de PHP.
-
 3. **Editor de Código:** Visual Studio Code (con extensiones recomendadas como PHP Intelephense y PHP Debug).
 
 ---
