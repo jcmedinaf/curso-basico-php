@@ -73,7 +73,7 @@
 
 **Objetivo:** Almacenar, manipular y ordenar estructuras de datos compuestas.
 
-* ** 5.1. Operaciones Fundamentales sobre Arreglos**
+* **5.1. Operaciones Fundamentales sobre Arreglos**
 
     * Agregar elementos (array_push, array_unshift).
     * Eliminar elementos (unset).
@@ -86,62 +86,52 @@
 
 ---
 
-Módulo 6: Manipulación de Cadenas de Texto
+# Módulo 6: Manipulación de Cadenas de Texto
 
-Objetivo: Transformar y procesar textos mediante las funciones integradas de PHP.
+**Objetivo:** Transformar y procesar textos mediante las funciones integradas de PHP.
 
-6.1. Funciones de Transformación y Limpieza
+**6.1. Funciones de Transformación y Limpieza**
 
-Normalización de caso (strtolower, strtoupper, ucfirst, ucwords).
+    * Normalización de caso (strtolower, strtoupper, ucfirst, ucwords).
+    * Limpieza de espacios y caracteres especiales (trim, ltrim, rtrim).
 
-Limpieza de espacios y caracteres especiales (trim, ltrim, rtrim).
+**6.2. División y Conversión de Cadenas**
 
-6.2. División y Conversión de Cadenas
-
-Separar texto en arreglos (explode, str_split).
-
-Repetición y formateo de cadenas (str_repeat).
-
-Archivo práctico: 06_cadenas.php
+    * Separar texto en arreglos (explode, str_split).
+    * Repetición y formateo de cadenas (str_repeat).
+    * **Archivo práctico:** 06_cadenas.php
 
 ---
 
-Módulo 7: Funciones Matemáticas Integradas
+# Módulo 7: Funciones Matemáticas Integradas
 
-Objetivo: Realizar cálculos numéricos complejos, redondeos y generación de números aleatorios.
+**Objetivo:** Realizar cálculos numéricos complejos, redondeos y generación de números aleatorios.
 
-7.1. Constantes y Funciones Aritméticas Básicas
+**7.1. Constantes y Funciones Aritméticas Básicas**
 
-Constante M_PI, funciones pi(), pow(), sqrt().
+    * Constante M_PI, funciones pi(), pow(), sqrt().
+    * Mínimos y máximos (min, max).
 
-Mínimos y máximos (min, max).
+**7.2. Redondeo, Números Aleatorios y Caso Práctico**
 
-7.2. Redondeo, Números Aleatorios y Caso Práctico
-
-Estrategias de redondeo con round().
-
-Generación de números aleatorios con rand().
-
-Resolución práctica de la fórmula cuadrática (Ecuación de segundo grado).
-
-Archivo práctico: 07_funciones_matematicas.php
+    * Estrategias de redondeo con round().
+    * Generación de números aleatorios con rand().
+    * Resolución práctica de la fórmula cuadrática (Ecuación de segundo grado).
+    * **Archivo práctico:** 07_funciones_matematicas.php
 
 ---
 
-Módulo 8: Sistema de Archivos y Directorios
+# Módulo 8: Sistema de Archivos y Directorios
 
-Objetivo: Leer, escribir y explorar el sistema de archivos del servidor.
+**Objetivo:** Leer, escribir y explorar el sistema de archivos del servidor.
 
-8.1. Manejo de Archivos (I/O)
+**8.1. Manejo de Archivos (I/O)**
 
-Apertura, lectura, escritura y cierre seguro (fopen, fwrite, fread, fclose).
+    * Apertura, lectura, escritura y cierre seguro (fopen, fwrite, fread, fclose).
+    * Obtención de metadatos de archivos (stat, filesize).
 
-Obtención de metadatos de archivos (stat, filesize).
+**8.2. Navegación e Inspección de Directorios**
 
-8.2. Navegación e Inspección de Directorios
-
-Obtención y cambio del directorio actual (getcwd, chdir).
-
-Lectura de archivos en directorio (scandir, opendir, readdir).
-
-Archivo práctico: 08_sistema_archivos.php
+    * Obtención y cambio del directorio actual (getcwd, chdir).
+    * Lectura de archivos en directorio (scandir, opendir, readdir).
+    * **Archivo práctico:** 08_sistema_archivos.php
