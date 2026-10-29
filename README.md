@@ -36,7 +36,7 @@ Luego, accede desde tu navegador a http://localhost:8000/01_sintaxis_y_variables
 ---
 
 # 📁 Estructura del Proyecto
-
+````
 curso-php-basico/
 ├── README.md                  # Presentación y guía del curso
 ├── ESQUEMA.md                 # Plan de estudios y contenido programático
@@ -48,11 +48,12 @@ curso-php-basico/
 ├── 06_cadenas.php             # Lección 6: Funciones de Cadenas
 ├── 07_funciones_matematicas.php# Lección 7: Funciones Matemáticas
 └── 08_sistema_archivos.php    # Lección 8: Manejo de Archivos y Directorios
+````
 
 ---
 
 # 👨‍🏫 Buenas Prácticas Aplicadas
 
-    * **PSR-12:** Estándar de estilo de código.
-    * **Tipado Fuerte:** Uso de tipos explícitos para mayor seguridad.
-    * **Formateo Limpio:** Separación clara entre lógica de negocio y presentación HTML.
+* **PSR-12:** Estándar de estilo de código.
+* **Tipado Fuerte:** Uso de tipos explícitos para mayor seguridad.
+* **Formateo Limpio:** Separación clara entre lógica de negocio y presentación HTML.
